@@ -1,0 +1,1 @@
+<view bindtap="{{a}}"><slot></slot></view>

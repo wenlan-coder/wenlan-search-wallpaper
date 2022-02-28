@@ -1,0 +1,1 @@
+.home_tab .home_tab_title{margin-top:20rpx;position:relative}.home_tab .home_tab_title .title_inner{width:75%;margin:0 auto;border:none}.home_tab .home_tab_title .iconfont_container{width:25px;position:absolute;top:50%;transform:translateY(-50%);right:5%}
