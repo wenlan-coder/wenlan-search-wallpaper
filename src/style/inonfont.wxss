@@ -1,0 +1,114 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2995948 */
+  src: url('//at.alicdn.com/t/font_2995948_84ctpe6p1cs.woff2?t=1646016232092') format('woff2'),
+       url('//at.alicdn.com/t/font_2995948_84ctpe6p1cs.woff?t=1646016232092') format('woff'),
+       url('//at.alicdn.com/t/font_2995948_84ctpe6p1cs.ttf?t=1646016232092') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon:before {
+  content: "\e651";
+}
+
+.icon-iconsearch:before {
+  content: "\e605";
+}
+
+.icon-shoucang:before {
+  content: "\e627";
+}
+
+.icon-DoNotDisturb:before {
+  content: "\e989";
+}
+
+.icon-icon-6:before {
+  content: "\e6fb";
+}
+
+.icon-icon-9:before {
+  content: "\e700";
+}
+
+.icon-icon-10:before {
+  content: "\e701";
+}
+
+.icon-icon-11:before {
+  content: "\e703";
+}
+
+.icon-icon-13:before {
+  content: "\e706";
+}
+
+.icon-icon-14:before {
+  content: "\e707";
+}
+
+.icon-icon-15:before {
+  content: "\e724";
+}
+
+.icon-pinpaiicon:before {
+  content: "\e633";
+}
+
+.icon-icon-:before {
+  content: "\e6f9";
+}
+
+.icon-icon-1:before {
+  content: "\e6fa";
+}
+
+.icon-icon-2:before {
+  content: "\e6fc";
+}
+
+.icon-icon-3:before {
+  content: "\e6fd";
+}
+
+.icon-icon-4:before {
+  content: "\e702";
+}
+
+.icon-icon-5:before {
+  content: "\e705";
+}
+
+.icon-dengshanma:before {
+  content: "\ebd2";
+}
+
+.icon-linuxfoundation:before {
+  content: "\e659";
+}
+
+.icon-archlinux:before {
+  content: "\e65c";
+}
+
+.icon-linuxfoundation1:before {
+  content: "\ebf7";
+}
+
+.icon-xiazai:before {
+  content: "\e668";
+}
+
+.icon-fenxiang:before {
+  content: "\e739";
+}
+
+.icon-aixin:before {
+  content: "\e8ab";
+}
